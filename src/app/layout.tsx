@@ -6,10 +6,11 @@ import { twMerge } from "tailwind-merge";
 const inter = Inter({
   subsets: ["latin"],
   variable: "--font-sans",
-  weight: ["600"],
+  weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
 });
+
 const calistoga = Calistoga({
-  subsets: ["latin"],
+  subsets: ["latin-ext"],
   variable: "--font-serif",
   weight: ["400"],
 });
