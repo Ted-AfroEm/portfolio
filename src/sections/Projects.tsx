@@ -18,7 +18,7 @@ const portfolioProjects = [
       { title: "Improved site speed by 50%" },
       { title: "Increased mobile traffic by 35%" },
     ],
-    link: "https://youtu.be/4k7IdSLxh6w",
+    link: "https://youtu.e/4k7IdSLxh6w",
     image: darkSaasLandingPage,
   },
   {
@@ -30,7 +30,7 @@ const portfolioProjects = [
       { title: "Expanded customer reach by 35%" },
       { title: "Increased brand awareness by 15%" },
     ],
-    link: "https://youtu.be/7hi5zwO75yc",
+    link: "https://youtu.e/7hi5zwO75yc",
     image: lightSaasLandingPage,
   },
   {
@@ -42,7 +42,7 @@ const portfolioProjects = [
       { title: "Improved site speed by 50%" },
       { title: "Increased mobile traffic by 35%" },
     ],
-    link: "https://youtu.be/Z7I5uSRHMHg",
+    link: "https://youtu.e/Z7I5uSRHMHg",
     image: aiStartupLandingPage,
   },
 ];
